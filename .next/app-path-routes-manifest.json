@@ -1,0 +1,10 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/bonds/page": "/bonds",
+  "/crypto/page": "/crypto",
+  "/favicon.ico/route": "/favicon.ico",
+  "/index-funds/page": "/index-funds",
+  "/page": "/",
+  "/savings/page": "/savings"
+}

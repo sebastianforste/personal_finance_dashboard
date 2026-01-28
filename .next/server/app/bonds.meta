@@ -1,0 +1,15 @@
+{
+  "headers": {
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/bonds/layout,_N_T_/bonds/page,_N_T_/bonds"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/bonds/__PAGE__",
+    "/bonds",
+    "/_index",
+    "/_head"
+  ]
+}
